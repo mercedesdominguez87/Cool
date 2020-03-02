@@ -3,3 +3,8 @@ Packing List
 -shoes
 -skirt
 -socks (the most important)
+
+Picnic
+---------
+bread
+sausages
